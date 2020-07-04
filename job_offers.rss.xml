@@ -4,7 +4,7 @@
     <title>JobTeaser.com | Oferty</title>
     <description></description>
     <link>https://uni-lodz.jobteaser.com/pl/job-offers</link>
-    <atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githubusercontent.com/daruuq/bk-rss/master/job_offers.rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uniwersytet Łódzki - Adiunkt w Zakładzie Antropologii Kulturowej</title>
       <description>Praca | Październik 2020</description>
