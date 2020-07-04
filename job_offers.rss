@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:jobOffer="https://schemas.jobteaser.com/xml/joboffer" version="2.0">
+  <channel>
+    <title>JobTeaser.com | Oferty</title>
+    <description></description>
+    <link>https://www.jobteaser.com/pl/job-offers</link>
+    <item>
+      <title>Uniwersytet Łódzki - Adiunkt w Zakładzie Antropologii Kulturowej</title>
+      <description>Praca | Październik 2020</description>
+      <pubDate>26 Jun 2020</pubDate>
+      <link>https://uni-lodz.jobteaser.com/pl/job-offers/6305892-uniwersytet-lodzki-adiunkt-w-zakladzie-antropologii-kulturowej</link>
+      <guid>https://www.jobteaser.com/pl/job-offers/6305892-uniwersytet-lodzki-adiunkt-w-zakladzie-antropologii-kulturowej</guid>
+      <enclosure url="https://d1guu6n8gz71j.cloudfront.net/system/asset/logos/3360968/logo.png?1593254679" length="28421" type="image/png"/>
+      <media:thumbnail url="https://d1guu6n8gz71j.cloudfront.net/system/asset/logos/3360968/logo.png?1593254679" credit="Career Center"/>
+	  <jobOffer:companyLogo>https://d1guu6n8gz71j.cloudfront.net/system/asset/logos/3360968/logo.png?1593254679</jobOffer:companyLogo>
+      <jobOffer:companyName>Uniwersytet Łódzki</jobOffer:companyName>
+      <jobOffer:companyIsPartner>true</jobOffer:companyIsPartner>
+      <jobOffer:jobLocation>Łódź - Poland</jobOffer:jobLocation>
+      <jobOffer:function>Edukacja i usługi szkoleniowe</jobOffer:function>
+    </item>
+    <item>
+      <title>Uniwersytet Łódzki - Adiunkt w Katedrze Socjologii Stosowanej i Pracy Socjalnej</title>
+      <description>Praca | Październik 2020</description>
+      <pubDate>26 Jun 2020</pubDate>
+      <link>https://uni-lodz.jobteaser.com/pl/job-offers/6305876-uniwersytet-lodzki-adiunkt-w-katedrze-socjologii-stosowanej-i-pracy-socjalnej</link>
+      <guid>https://www.jobteaser.com/pl/job-offers/6305876-uniwersytet-lodzki-adiunkt-w-katedrze-socjologii-stosowanej-i-pracy-socjalnej</guid>
+      <enclosure url="https://d1guu6n8gz71j.cloudfront.net/system/asset/logos/3360968/logo.png?1593254679" length="28421" type="image/png"/>
+      <media:thumbnail url="https://d1guu6n8gz71j.cloudfront.net/system/asset/logos/3360968/logo.png?1593254679" credit="Career Center"/>
+      <jobOffer:companyLogo>https://d1guu6n8gz71j.cloudfront.net/system/asset/logos/3360968/logo.png?1593254679</jobOffer:companyLogo>
+      <jobOffer:companyName>Uniwersytet Łódzki</jobOffer:companyName>
+      <jobOffer:companyIsPartner>true</jobOffer:companyIsPartner>
+      <jobOffer:jobLocation>Łódź - Poland</jobOffer:jobLocation>
+      <jobOffer:function>Edukacja i usługi szkoleniowe</jobOffer:function>
+    </item>
+  </channel>
+</rss>
